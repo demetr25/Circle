@@ -2,8 +2,8 @@ package com.company;
 
 public class Circle {
     double r;
-    double l = 2*Math.PI*r;
-    double s = Math.PI*Math.pow(r,2.0);
+    double l;
+    double s;
     String color;
 
     public Circle() {

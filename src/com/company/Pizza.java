@@ -1,7 +1,6 @@
 package com.company;
 
 public class Pizza extends Circle{
-    Circle basis;
     String composition;
     String name;
     double cost;
